@@ -7,7 +7,7 @@
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.8.9",
   "url": "https://gitlab.com/Cyberdwarf1664/bid-fr/",
-  "download": "https://gitlab.com/Cyberdwarf1664/bid-fr/-/archive/main/bid-fr-main.zip",
+  "download": "https://github.com/HKein/BitdFrKein/blob/main/bid-fr-main.zip",
   "manifest": "https://raw.githubusercontent.com/HKein/BitdFrKein/refs/heads/main/module.json",
   
   "languages" : [
