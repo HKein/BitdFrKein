@@ -1,8 +1,8 @@
 {
   "id": "bid-fr",
-  "title": "Blades in the Dark - Translations (French)",
+  "title": "Blades in the Dark - Translations (French Kein)",
   "description": "Traduction du sysème Blades in the Dark de megastruktur : Système et Compendiums",
-  "version": "0.1.6",
+  "version": "0",
   "author": "Cyberdwarf",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.8.9",
